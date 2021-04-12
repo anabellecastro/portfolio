@@ -1,0 +1,102 @@
+@media screen and (max-width: 1009px) {
+  .body {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .header {
+    margin-bottom: 20px;
+    width: calc(100% - 80px);
+  }
+
+  .header .navigation .name {
+    font-size: 24px;
+    width: 100%;
+  }
+
+  .header .speciality {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .header .title {
+    text-align: center;
+    padding-top: 20px;
+  }
+
+  .header .navigation-sub {
+    font-size: 18px;
+  }
+
+  .daily-header {
+    padding-bottom: 25px;
+  }
+
+  .project {
+    width: 100%;
+  }
+
+  .project-page {
+    width: 100%;
+  }
+
+  .projects-body {
+    width: calc(100% - 80px);
+  }
+
+  .renovare-card {
+    width: 100%;
+  }
+
+  .column-container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .column-container-left {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .column-container-right {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .challenge-title {
+    font-size: 2em;
+  }
+
+  .challenge-category {
+    font-family: circular-std-book, Arial, sans-serif;
+    font-size: 1.5em;
+  }
+
+  .dialog {
+    width: 80%;
+  }
+
+  .illustrations-body .columns img {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .modalbox {
+    background-color: red;
+  }
+
+  .footer .footer-statement {
+    width: 100%;
+  }
+
+  .footer .footer-statement p {
+    width: 75%;
+    margin: 0 auto;
+  }
+}
